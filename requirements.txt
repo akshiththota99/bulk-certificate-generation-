@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic[email]
+reportlab
+pillow
+pytest
+httpx<0.28
